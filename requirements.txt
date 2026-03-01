@@ -1,0 +1,10 @@
+Requirements (Cross-Platform)
+
+🧠 System
+	•	OS: Windows / macOS / Linux
+	•	Python: 3.9+ (3.10 or 3.11 recommended)
+	•	Terminal: Any modern terminal (Windows Terminal, iTerm2, GNOME Terminal, etc.)
+
+📦 Python Dependencies
+install once:
+pip install python-docx PyPDF2 colorama tqdm
